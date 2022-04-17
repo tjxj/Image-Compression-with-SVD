@@ -4,10 +4,10 @@
 > Learn by doing
 
 我做了一个在线的图像压缩应用，大家可以感受一下。
-
+https://huggingface.co/spaces/beihai/Image-Compression-with-SVD
 功能很简单，上传需要压缩的图片，选择压缩比，提交即可。
 
-![https://huggingface.co/spaces/beihai/Image-Compression-with-SVD](https://files.mdnice.com/user/3611/75eef228-515d-419f-8ac2-b7bcf065c9b4.jpg)
+![](https://files.mdnice.com/user/3611/75eef228-515d-419f-8ac2-b7bcf065c9b4.jpg)
 
 下面咱们就一起看看实现过程
 
